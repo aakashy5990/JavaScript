@@ -1,4 +1,4 @@
-import {add} from "./usestrict.js";
+import add from "./usestrict.js";
 const res = add(5,4);
 console.log(res);
 

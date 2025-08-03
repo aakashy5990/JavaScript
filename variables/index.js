@@ -58,4 +58,8 @@ void function() {
 -function() {
     console.log("IIFE with -");
 }();
-  
+
+// Auto calling function 
+(function name(){
+    console.log("this is the normal function")
+})();

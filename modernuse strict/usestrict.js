@@ -7,6 +7,7 @@ export function add(a,b){
     return result;
 }
 
+
 // "use strict"
 
 // function add(a,b){
